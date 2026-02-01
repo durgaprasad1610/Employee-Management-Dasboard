@@ -142,7 +142,7 @@ Comprehensive form for adding and editing employees:
 ## 📁 Project Structure
 
 ```
-sample-react-app/
+employee-management-dashboard-app/
 ├── src/
 │   ├── components/
 │   │   ├── EmployeeForm.tsx      # Add/Edit employee form component
