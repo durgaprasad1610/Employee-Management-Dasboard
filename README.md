@@ -142,7 +142,7 @@ Comprehensive form for adding and editing employees:
 ## 📁 Project Structure
 
 ```
-sample-react-app/
+employee-management-dashboard-app/
 ├── src/
 │   ├── components/
 │   │   ├── EmployeeForm.tsx      # Add/Edit employee form component
@@ -184,7 +184,7 @@ sample-react-app/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd sample-react-app
+   cd employee-management-dashboard-app
    ```
 
 2. **Install dependencies**
