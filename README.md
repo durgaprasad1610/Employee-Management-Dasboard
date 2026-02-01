@@ -199,7 +199,7 @@ employee-management-dashboard-app/
 
 4. **Open your browser**
    
-   Navigate to the URL shown in terminal (usually `http://localhost:5173` or `http://localhost:5174`)
+   Navigate to the URL shown in terminal (usually `http://localhost:5173`)
 
 ### Build for Production
 
